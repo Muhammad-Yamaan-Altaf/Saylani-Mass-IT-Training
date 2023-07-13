@@ -1,0 +1,17 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.yamaan{
+    background-color: blueviolet;
+    padding: 10px;
+    width: 65%; 
+    margin: 10px auto;
+    color: white; 
+}
+
+.xyz{
+    text-align: center;
+    color: blueviolet;
+    text-decoration: underline;
+}
